@@ -1,11 +1,3 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slides for WebWorker 2024-03-31 MeetUp
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+[](https://webworker-meetup.zeabur.app)
